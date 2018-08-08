@@ -1,0 +1,11 @@
+{
+  "name": "iter.ts",
+  "version": "0.1.0",
+  "description": "Iterators library for ECMAScript, inspired by Rust std::iter module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcheshkov/iter.ts"
+  },
+  "author": "Mikhail Chechkov",
+  "license": "MIT"
+}
